@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for kentasnightscout on 2025-06-23T15:12:30Z
+# fly.toml app configuration file generated for kentasnightscout on 2025-07-26T23:49:15Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
 app = 'kentasnightscout'
-primary_region = 'arn'
+primary_region = 'fra'
 
 [build]
 
